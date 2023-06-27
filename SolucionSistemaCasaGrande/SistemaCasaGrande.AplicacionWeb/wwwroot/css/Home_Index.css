@@ -1,0 +1,10 @@
+﻿.custom-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-fluid{
+    width: 650px;
+}

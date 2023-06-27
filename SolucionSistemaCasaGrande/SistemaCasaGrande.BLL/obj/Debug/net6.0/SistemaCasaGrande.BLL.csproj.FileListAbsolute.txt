@@ -1,0 +1,17 @@
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.BLL.deps.json
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.BLL.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.BLL.pdb
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.AssemblyInfoInputs.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.AssemblyInfo.cs
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\refint\SistemaCasaGrande.BLL.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.pdb
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\ref\SistemaCasaGrande.BLL.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.DAL.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.Entity.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.DAL.pdb
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\bin\Debug\net6.0\SistemaCasaGrande.Entity.pdb
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.BLL\obj\Debug\net6.0\SistemaCasaGrande.BLL.csproj.CopyComplete

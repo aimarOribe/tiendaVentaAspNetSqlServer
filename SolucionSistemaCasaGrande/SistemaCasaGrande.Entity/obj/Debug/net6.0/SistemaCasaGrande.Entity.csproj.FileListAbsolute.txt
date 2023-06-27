@@ -1,0 +1,14 @@
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\bin\Debug\net6.0\SistemaCasaGrande.Entity.deps.json
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\bin\Debug\net6.0\SistemaCasaGrande.Entity.runtimeconfig.json
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\bin\Debug\net6.0\SistemaCasaGrande.Entity.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\bin\Debug\net6.0\SistemaCasaGrande.Entity.pdb
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.csproj.AssemblyReference.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.AssemblyInfoInputs.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.AssemblyInfo.cs
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\refint\SistemaCasaGrande.Entity.dll
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.pdb
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\SistemaCasaGrande.Entity.genruntimeconfig.cache
+C:\Users\Aimar\source\repos\SistemaCasaGrande\SolucionSistemaCasaGrande\SistemaCasaGrande.Entity\obj\Debug\net6.0\ref\SistemaCasaGrande.Entity.dll
